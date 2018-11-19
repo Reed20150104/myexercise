@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111c116c-a84d-4a24-8d2b-694ae7a1ea92" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/0001/generate.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/myexercise.iml" afterPath="$PROJECT_DIR$/.idea/myexercise.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/0000/addnumtopicture.py" afterPath="$PROJECT_DIR$/0000/addnumtopicture.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -214,6 +210,14 @@
       <option name="presentableId" value="Default" />
       <updated>1541946675816</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 1 compeleted!">
+      <created>1542633693716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542633693717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -247,6 +251,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 1 compeleted!" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 compeleted!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
