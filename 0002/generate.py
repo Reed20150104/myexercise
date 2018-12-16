@@ -15,8 +15,6 @@ from mysqloperate import Mysql
 def generatePromotionCode(numberOfCode,length):
     generatedCode = []
     stringOfNumberAndalphabet = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    print(stringOfNumberAndalphabet[61])
-    print(len(stringOfNumberAndalphabet))
     #生成指定数目的优惠码
     for num in range(0, numberOfCode):
         generatedCode.append(getRandomCode(stringOfNumberAndalphabet, length))
